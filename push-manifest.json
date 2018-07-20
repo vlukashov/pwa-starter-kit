@@ -4,6 +4,10 @@
       "type": "script",
       "weight": 1
     },
+    "src/routes/app-routing.js": {
+      "type": "script",
+      "weight": 1
+    },
     "src/components/my-view1.js": {
       "type": "script",
       "weight": 1
@@ -15,6 +19,10 @@
   },
   "/view1": {
     "src/components/my-app.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "src/routes/app-routing.js": {
       "type": "script",
       "weight": 1
     },
@@ -32,6 +40,10 @@
       "type": "script",
       "weight": 1
     },
+    "src/routes/app-routing.js": {
+      "type": "script",
+      "weight": 1
+    },
     "src/components/my-view2.js": {
       "type": "script",
       "weight": 1
@@ -43,6 +55,10 @@
   },
   "/view3": {
     "src/components/my-app.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "src/routes/app-routing.js": {
       "type": "script",
       "weight": 1
     },
